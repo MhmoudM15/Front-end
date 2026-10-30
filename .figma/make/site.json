@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines front-end planning by visualizing database structures, enabling developers to design efficient user interfaces tailored to project data.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
